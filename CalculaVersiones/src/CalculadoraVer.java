@@ -9,6 +9,11 @@ public class CalculadoraVer {
 		this.num2 = num2;
 	}
 	
+	public int suma() {
+		int resultado=num1+num2;
+		return resultado;
+	}
+	
 	
 	
 }
